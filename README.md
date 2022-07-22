@@ -1,0 +1,2 @@
+# Retail_2
+Dengan meningkatnya permintaan dan persaingan ketat di pasar, Superstore mencari pengetahuan Anda dalam memahami apa yang terbaik untuk mereka. Mereka ingin memahami produk, wilayah, kategori, dan segmen pelanggan mana yang harus mereka targetkan atau hindari. Anda bahkan dapat mengambil langkah lebih jauh dan mencoba dan membangun model Regresi untuk memprediksi Penjualan atau Laba. Explore dataset dan pastikan untuk memberikan beberapa wawasan bisnis untuk ditingkatkan.
